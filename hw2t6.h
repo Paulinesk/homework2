@@ -6,3 +6,4 @@ void swap(double *a, double* b)
 	*a = *b;
 	*b = temp;
 }
+void change(double* arr, int size_arr);
